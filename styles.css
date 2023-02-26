@@ -1,0 +1,39 @@
+
+#portrait {
+    width: 100%;
+    max-width: 300px;
+    max-height: 339px;
+    margin: auto;
+}
+
+#name-input:focus {
+    background-color: #181a1b;
+}
+
+#message-input:focus {
+    background-color: #181a1b;
+}
+
+#email-input:focus {
+    background-color: #181a1b;
+}
+
+.bg-dark-gray {
+    background-color: #0c0d0e;
+}
+
+.bg-gray {
+    background-color: #232627;
+}
+
+.bg-light-gray {
+    background-color: #3c4243;
+}
+
+.border-gray {
+    border-color: rgb(128, 119, 105);
+}
+
+.social-icons a i {
+    color: #ccc;
+  }
